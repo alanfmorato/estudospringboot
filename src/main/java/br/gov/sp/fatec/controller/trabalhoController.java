@@ -1,4 +1,4 @@
-package br.gov.sp.controller;
+package br.gov.sp.fatec.controller;
 
 import java.util.List;
 
